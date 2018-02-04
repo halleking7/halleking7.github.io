@@ -1,0 +1,74 @@
+
+	.background-container{
+		width:1300px;
+		height:1200px;
+		background-image:url("one1.gif");
+		position: fixed;
+		z-index:-2;
+		top:0;
+		left:0;
+	}
+
+	.box1{
+	background-color:grey;
+	width:500px;
+	position:fixed;
+	top:0px;
+	left:0px;
+	height:262px;
+	z-index:4;
+	}
+
+	.rule{
+	background-color:white;
+	width:400px;
+	height:1px;
+	left:50px;
+	position:fixed;
+	top:120px;
+	z-index:6;
+
+	}
+
+	.tour{
+		width:500px;
+		position:fixed;top:20px;left:50px;
+		z-index:4;
+		font-family:'Open Sans Condensed', sans-serif;
+		font-size:75px;
+		color:white;
+		font-weight:5px;
+	}
+
+	.date{
+		width:700px;
+		z-index:5;
+		font-size:32px;
+		position:fixed;top:130px;left:50px;
+		font-family: 'Open Sans Condensed', sans-serif;
+		color:rgb(235,255,40);
+	}
+
+	.h1{
+		width:500px;
+		position:fixed;top:170px;
+		z-index:5;
+		font-family: 'Open Sans Condensed', sans-serif;
+		color:white;
+		font-size:16px;
+		text-align:center;
+		line-height:10px;
+	}
+
+		@media(max-width: 550px) {
+
+			
+
+
+
+
+		}
+
+}
+	
+	
