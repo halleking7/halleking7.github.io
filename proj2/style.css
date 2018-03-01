@@ -1,0 +1,67 @@
+ html, body {
+  margin: 0;
+  padding: 0;
+}
+body{
+	width:90vw;
+	margin-left:5vw;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	color:rgb(10,58,130);
+	font-size:14px;
+	line-height:26px;
+	text-indent:33px;
+	margin-top:0
+	margin-bottom:0;
+}
+
+h1{
+	font-family: 'Source Code Pro', monospace;
+	margin-left:-5vw;
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	color:rgb(247,19,18);
+	font-size:17px;
+	margin-left:3vw;
+}
+
+.cite{
+	color:rgb(10,58,130);
+	font-size:10px;
+	text-indent:0;
+	padding-left:3vw;}
+
+.artist{
+	color:rgb(135,201,251);
+	font-size:9vw;
+	line-height:10vw;
+	text-indent:0px;
+	letter-spacing: 5pt;
+	margin-left:3%;
+}
+.pullquote{
+	color:rgb(135,201,251);
+	font-size:40px;
+	line-height:44px;
+	text-indent:0;
+	padding-left:15vw;}
+
+.question{
+		font-family: 'Source Code Pro', monospace;
+	color:rgb(135,201,251);
+	font-size:18px;
+	line-height:21px;
+	text-indent:0;
+	padding-left:5vw;
+	margin-bottom:1}
+
+img{
+	width:85%;
+	margin-left:4%;
+}
+
+padding-left:5vw;
