@@ -9,8 +9,9 @@ body{
 
 p{
 	font-family: 'Roboto', sans-serif;
+	font-weight:normal;
 	color:rgb(10,58,130);
-	font-size:14px;
+	font-size:16px;
 	line-height:20px;
 	margin-top:0
 	margin-bottom:0;
@@ -50,10 +51,11 @@ h2{
 	padding-left:5vw;}
 
 .question{
-	font-family: 'Roboto', sans-serif; 
-	color:rgb(135,201,251);
-	font-size:18px;
-	line-height:21px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold; 
+	color:rgb(135,201,81);
+	font-size:20px;
+	line-height:24px;
 	text-indent:0;
 	padding-left:5vw;
 	margin-bottom:1}
@@ -114,6 +116,13 @@ a:hover
 	width:8%;
 	margin-left:0%;
 	padding-left:28vw;
+}
+.texture{
+	width:70vw;
+	height:100vh;
+	z-index:-1;
+	opacity:50%;
+
 }
 @media(min-width:950px){
 	body{
