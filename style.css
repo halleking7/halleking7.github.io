@@ -69,6 +69,7 @@ h2{
 	line-height:10vh;
 	padding-left:3vw;
 	text-decoration: none;
+	z-index:1vw;
 	}
 
 .back{
@@ -118,11 +119,8 @@ a:hover
 	padding-left:28vw;
 }
 .texture{
-	width:70vw;
-	height:100vh;
-	z-index:-1;
-	opacity:50%;
-
+	width:55%;
+	height:85%;
 }
 @media(min-width:950px){
 	body{
