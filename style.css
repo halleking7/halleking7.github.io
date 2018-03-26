@@ -64,9 +64,10 @@ body {
 .snooze {
   color: rgb(205, 224,244);
   font-family: Open Sans Condensed;
+  position:absolute;
   top:46vh;
   left:51vw;
-  font-size:10px;
+  font-size: 40px;
   letter-spacing: 10px;
   opacity: 0;
   cursor:pointer;
